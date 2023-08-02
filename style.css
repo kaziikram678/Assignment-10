@@ -1,0 +1,50 @@
+#division1{
+    border: 10px dotted black;
+    background: url(threads.jfif), url(fb.png), url(insta.jfif);
+    background-repeat: no-repeat;
+    background-size: 100px,100px;
+    padding: 20px;
+    background-clip: border-box;
+    background-origin: content-box;
+    background-position: left,center,right;
+}
+
+#division2{
+    border: 10px dotted black;
+    background-color: aqua;
+    padding: 20px;
+    background-clip: padding-box;
+}
+
+#division3{
+    border: 10px dotted black;
+    background-color: aqua;
+    padding: 20px;
+    background-clip: content-box;
+}
+
+#division5{
+    height: 300px;
+    width: 300px;
+    border: 5px solid red;
+}
+#division5,p{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#division6{
+    height: 300px;
+    width: 300px;
+    border: 5px solid red;
+}
+
+#child{
+    height: 100px;
+    width: 100px;
+    border: 3px dotted green;
+    margin: auto;
+}
+    
